@@ -1,1 +1,2 @@
 data/aclImdb_v1.tar.gz filter=lfs diff=lfs merge=lfs -text
+data/pretrained_models/GoogleNews-vectors-negative300.bin.gz filter=lfs diff=lfs merge=lfs -text
